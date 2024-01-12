@@ -11,4 +11,4 @@ abra http://localhost:3000 para visualizar o projeto em seu navegador.
 Baixe o arquivo Back End e abra a pasta do ASP.NETCoreVoya no Visual Studio, para rodar o projeto clique no botão verde do Visual Studio.
 
 ## Atenção 
-Para a execução adequada do projeto é importante rodar o reactvoya e ASP.NETCoreVoya, asim os dados será consultado no Front end.
+Para a execução adequada do projeto é importante rodar o reactvoya e ASP.NETCoreVoya, assim os dados será consultado no Front end.
