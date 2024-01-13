@@ -12,3 +12,16 @@ Baixe o arquivo Back End e abra a pasta do ASP.NETCoreVoya no Visual Studio, par
 
 ## Atenção 
 Para a execução adequada do projeto é importante rodar o reactvoya e ASP.NETCoreVoya, assim os dados será consultado no Front end.
+
+## Projeto: Lista de Clientes, Destino e Promoções da Agência Voya
+
+![usuario01](https://github.com/Tailany24/Projeto_React_com_dotNet/assets/139998931/cca810b6-c3a4-4f0a-9206-ffaf26d646bf)
+
+
+![destino02](https://github.com/Tailany24/Projeto_React_com_dotNet/assets/139998931/2839a323-183f-4f48-92d3-f0f5be97c3c3)
+
+
+![promocao03](https://github.com/Tailany24/Projeto_React_com_dotNet/assets/139998931/0d9525d7-cd11-4776-a6c5-739eccba3453)
+
+
+##OBS: Todos os direitos reservados
